@@ -25,13 +25,13 @@ For too long my [discord](https://discordapp.com/) channel has gone unmoderated!
 
 **!playlist** - view saved playlists and their size
 
-    **!playlist playlist_title** - add playlist playlist_title to queue
+**!playlist playlist_title** - add playlist playlist_title to queue
     
-    **!playlist view playlist_title** - view the songs in playlist playlist_title
+ **!playlist view playlist_title** - view the songs in playlist playlist_title
     
-    **!playlist add/remove playlist_title youtube_url** - add or remove song youtube_url to playlist playlist_title
+**!playlist add/remove playlist_title youtube_url** - add or remove song youtube_url to playlist playlist_title
     
-    **!playlist save playlist_title** - save all songs in the current queue to playlist playlist_title
+**!playlist save playlist_title** - save all songs in the current queue to playlist playlist_title
     
 **!pause** - vote to pause current song
 
