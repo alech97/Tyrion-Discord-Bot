@@ -1,4 +1,5 @@
 # Tyrion Bot
+![Tyrion](Tyrion.png)
 For too long my [discord](https://discordapp.com/) channel has gone unmoderated! I made this bot to make my channel interesting.  It lets my friends and I:
 
 **!search keywords** - search youtube for keywords and gives option to play song
