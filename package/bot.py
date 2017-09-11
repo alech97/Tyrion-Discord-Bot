@@ -146,6 +146,7 @@ async def command_clear(message):
             
 async def command_chance(message):
     """**!chance int_between_2_100000000** - change !roll's chance value to int_between_2_100000000"""
+    global chance
     try:
         string = int(parse('!chance {a}', message.content)['a'])
     except:
